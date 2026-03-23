@@ -13,8 +13,8 @@ Dynamic Satellite–Ground Fusion Grid-Based Landslide Early Warning System
 
 * Integrates satellite + ground sensor data
 * Exhibited at AI Impact Summit India 2026
-* First Runner-up — TechSprint Manipur 1.0
-* First Runner-up — ReGen Hackathon 2.0
+* First Runner-up - TechSprint Manipur 1.0
+* First Runner-up - ReGen Hackathon 2.0
 * Methodology under patent filing
 
 ---
