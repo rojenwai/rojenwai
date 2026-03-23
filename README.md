@@ -62,3 +62,7 @@ Git
 LinkedIn: [www.linkedin.com/in/rojenwai](http://www.linkedin.com/in/rojenwai)
 
 X: [https://x.com/rojen89724](https://x.com/rojen89724)
+
+Threads: [https://www.threads.com/@rojenwai](https://www.threads.com/@rojenwai)
+
+Instagram: [https://www.instagram.com/rojenwai/](https://www.instagram.com/rojenwai/)
