@@ -33,7 +33,7 @@ AI-based robotic system for real-time control and interaction
 
 EdTech platform for primary education using local languages
 
-* Runner-up — UBA EduThon 2025
+* Runner-up - UBA EduThon 2025
 
 ---
 
