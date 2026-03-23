@@ -1,16 +1,62 @@
-## Hi there 👋
+# Hi, I'm Rojen 👋
 
-<!--
-**rojenwai/rojenwai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Computer Science Engineering @ NIT Manipur
+🧠 Interested in AI, Systems, and Problem Solving
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  Projects
+
+### DSGF-LEWS
+
+Dynamic Satellite–Ground Fusion Grid-Based Landslide Early Warning System
+
+* Integrates satellite + ground sensor data
+* Exhibited at AI Impact Summit India 2026
+* First Runner-up — TechSprint Manipur 1.0
+* First Runner-up — ReGen Hackathon 2.0
+* Methodology under patent filing
+
+---
+
+### Yuki-Quadruped-Robot
+
+AI-based robotic system for real-time control and interaction
+
+* WiFi-based command execution
+* Modular control architecture
+* Designed for intelligent behavior integration
+
+---
+
+### PhungaLearn
+
+EdTech platform for primary education using local languages
+
+* Runner-up — UBA EduThon 2025
+
+---
+
+### Autonomous UAV
+
+Fixed-wing drone with GPS navigation and wireless communication
+
+---
+
+### potholesinmanipur.com
+
+Location-based platform for reporting road issues
+
+---
+
+## 🛠️ Skills
+
+Python, C
+Embedded Systems
+Git
+
+---
+
+## 📫 Contact
+
+LinkedIn: [www.linkedin.com/in/rojenwai](http://www.linkedin.com/in/rojenwai)
