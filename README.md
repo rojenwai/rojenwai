@@ -19,7 +19,7 @@ Dynamic Satellite–Ground Fusion Grid-Based Landslide Early Warning System
 - Methodology under patent filing
 
   <img width="508" height="248" alt="image" src="https://github.com/user-attachments/assets/4d8d5317-f528-4dad-a04e-9fee45295ac4" />
-  <img width="508" height="248" alt="image" src="https://github.com/user-attachments/assets/4ed9b6aa-9266-409f-9cd2-1c024c2b9173" />
+  <img width="508" height="250" alt="image" src="https://github.com/user-attachments/assets/68b3ae4e-5208-4b18-ac0f-3ed4e22032d4" />
   <img width="508" height="248" alt="image" src="https://github.com/user-attachments/assets/9fd312bc-cfdb-4b86-b656-4b361dc6c960" />
 
 
