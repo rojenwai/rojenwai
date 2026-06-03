@@ -21,9 +21,7 @@ Dynamic Satellite–Ground Fusion Grid-Based Landslide Early Warning System
   <img width="508" height="248" alt="image" src="https://github.com/user-attachments/assets/4d8d5317-f528-4dad-a04e-9fee45295ac4" />
   <img width="508" height="250" alt="image" src="https://github.com/user-attachments/assets/68b3ae4e-5208-4b18-ac0f-3ed4e22032d4" />
   <img width="508" height="248" alt="image" src="https://github.com/user-attachments/assets/9fd312bc-cfdb-4b86-b656-4b361dc6c960" />
-
-
-
+  
 ### Yuki
 AI-Powered Quadruped Robot
 
@@ -46,6 +44,10 @@ Educational Platform for Local Heritage
 - Storytelling, quizzes, and audio narration
 - Runner-Up, UBA EduThon 2025
 
+  <img width="1600" height="909" alt="image" src="https://github.com/user-attachments/assets/7077e55e-6d4c-4ff2-8de0-3a2ae1ea2083" />
+  <img width="1600" height="813" alt="image" src="https://github.com/user-attachments/assets/3bf4f9e7-ecbb-4d01-8a39-27325dfa6188" />
+  <img width="1166" height="937" alt="image" src="https://github.com/user-attachments/assets/1f3881cc-ad3a-47b5-bf6c-cb0808233f8f" />
+
 ### Autonomous Fixed-Wing UAV
 
 - Custom flight controller
@@ -53,6 +55,8 @@ Educational Platform for Local Heritage
 - GPS waypoint navigation
 - STM32 + NRF24L01
 
+  <img width="1920" height="1440" alt="image" src="https://github.com/user-attachments/assets/33a93422-63a2-4220-a032-b6d650384b06" />
+  <img width="1920" height="1440" alt="image" src="https://github.com/user-attachments/assets/25b910ff-4087-4e5d-8688-cb84e99c1450" />
 ---
 
 ## Technical Skills
