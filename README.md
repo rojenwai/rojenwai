@@ -18,6 +18,12 @@ Dynamic Satellite–Ground Fusion Grid-Based Landslide Early Warning System
 - First Runner-Up, ReGen Hackathon 2.0
 - Methodology under patent filing
 
+  <img width="508" height="248" alt="image" src="https://github.com/user-attachments/assets/4d8d5317-f528-4dad-a04e-9fee45295ac4" />
+  <img width="508" height="248" alt="image" src="https://github.com/user-attachments/assets/4ed9b6aa-9266-409f-9cd2-1c024c2b9173" />
+  <img width="508" height="248" alt="image" src="https://github.com/user-attachments/assets/9fd312bc-cfdb-4b86-b656-4b361dc6c960" />
+
+
+
 ### Yuki
 AI-Powered Quadruped Robot
 
