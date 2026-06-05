@@ -30,13 +30,6 @@ AI-Powered Quadruped Robot
 - WiFi-based communication
 - Modular robotic architecture
 
-### PangoRun
-Gamified Fitness & Running Application
-
-- Run tracking and streak systems
-- Achievement and progression mechanics
-- React Native + Expo
-
 ### PhungaLearn
 Educational Platform for Local Heritage
 
