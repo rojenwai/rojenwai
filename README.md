@@ -29,7 +29,8 @@ AI-Powered Quadruped Robot
 - WiFi-based communication
 - Modular robotic architecture
 
-<img width="1165" height="1350" alt="slime_king" src="https://github.com/user-attachments/assets/21531971-06f5-4f22-be49-8995c4335a65" />
+<img width="960" height="1280" alt="yuki" src="https://github.com/user-attachments/assets/f7b1fdaf-b323-4b5a-b187-1e9fdcba8b67" />
+
 
 ### PhungaLearn
 Educational Platform for Local Heritage
