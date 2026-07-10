@@ -8,17 +8,17 @@
 
 </div>
 
-Computer Science & Engineering student at NIT Manipur, building where software meets the physical world — landslide-warning grids, quadruped robots that understand language, and autonomous aircraft that navigate on their own.
+Computer Science & Engineering student at NIT Manipur, building where software meets the physical world — satellite-and-IoT fusion for disaster prediction, a ground control station for autonomous UAVs, and a quadruped robot that understands natural language.
 
 ## Achievements
 
-**[DSGF-LEWS](https://github.com/rojenwai/DSGF-LandslideEarlyWarningSystem-Showcase)** — satellite–ground fusion landslide early-warning system
+**[DSGF-LEWS](https://github.com/rojenwai/DSGF-LandslideEarlyWarningSystem-Showcase)** — Dynamic Satellite-Ground Fusion Grid-Based Landslide Early Warning System, fusing satellite intelligence, IoT sensors, and LoRa communication with machine learning
 
 <img src="https://img.shields.io/badge/AI_Impact_Summit_India_2026-Exhibitor-00D9FF?style=for-the-badge&labelColor=0F2027" alt="AI Impact Summit India 2026 — Exhibitor" />
 <img src="https://img.shields.io/badge/TechSprint_Manipur_1.0-Runner_Up-8892B0?style=for-the-badge&labelColor=0F2027" alt="TechSprint Manipur 1.0 — Runner-Up" />
 <img src="https://img.shields.io/badge/ReGen_Hackathon_2.0-First_Runner_Up-8892B0?style=for-the-badge&labelColor=0F2027" alt="ReGen Hackathon 2.0 — First Runner-Up" />
 
-**[PhungaLearn](https://github.com/rojenwai/PhungaLearn-Showcase)** — multilingual educational platform for local heritage
+**[PhungaLearn](https://github.com/rojenwai/PhungaLearn-Showcase)** — multilingual platform preserving regional languages and culture through storytelling, interactive learning, and NEP 2020-aligned digital education
 
 <img src="https://img.shields.io/badge/UBA_EduThon_2025-Runner_Up-8892B0?style=for-the-badge&labelColor=0F2027" alt="UBA EduThon 2025 — Runner-Up" />
 
