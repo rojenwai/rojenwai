@@ -2,11 +2,11 @@
 
 # Rojen Wairokpam
 
-Computer Science & Engineering @ NIT Manipur
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=00D9FF&center=true&vCenter=true&width=600&height=40&lines=AI+%26+Robotics+Engineer;Embedded+Systems+%26+IoT+Developer" alt="AI & Robotics Engineer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1400&color=00D9FF&center=true&vCenter=true&width=650&height=40&lines=Good+to+have+you+here;AI+%26+Robotics+Engineer;Embedded+Systems+%26+IoT+Developer;Building+things+that+think+and+move" alt="Good to have you here — AI & Robotics Engineer" />
 
 </div>
+
+Computer Science & Engineering student at NIT Manipur, building where software meets the physical world — landslide-warning grids, quadruped robots that understand language, and autonomous aircraft that navigate on their own.
 
 ## Achievements
 
