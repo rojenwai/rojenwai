@@ -2,9 +2,7 @@
 
 # Rojen Wairokpam
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1400&color=00D9FF&center=true&vCenter=true&width=650&height=40&lines=Good+to+have+you+here;AI+%26+Robotics+Engineer;Embedded+Systems+%26+IoT+Developer;Building+things+that+think+and+move" alt="Good to have you here — AI & Robotics Engineer" />
-
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="380" alt="" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1400&color=F5A623&center=true&vCenter=true&width=650&height=40&lines=Good+to+have+you+here;AI+%26+Robotics+Engineer;Embedded+Systems+%26+IoT+Developer;Building+things+that+think+and+move" alt="Good to have you here — AI & Robotics Engineer" />
 
 </div>
 
@@ -14,7 +12,7 @@ Computer Science & Engineering student at NIT Manipur, building where software m
 
 **[DSGF-LEWS](https://github.com/rojenwai/DSGF-LandslideEarlyWarningSystem-Showcase)** — Dynamic Satellite-Ground Fusion Grid-Based Landslide Early Warning System, fusing satellite intelligence, IoT sensors, and LoRa communication with machine learning
 
-<img src="https://img.shields.io/badge/AI_Impact_Summit_India_2026-Exhibitor-00D9FF?style=for-the-badge&labelColor=0F2027" alt="AI Impact Summit India 2026 — Exhibitor" />
+<img src="https://img.shields.io/badge/AI_Impact_Summit_India_2026-Exhibitor-F5A623?style=for-the-badge&labelColor=0F2027" alt="AI Impact Summit India 2026 — Exhibitor" />
 <img src="https://img.shields.io/badge/TechSprint_Manipur_1.0-Runner_Up-8892B0?style=for-the-badge&labelColor=0F2027" alt="TechSprint Manipur 1.0 — Runner-Up" />
 <img src="https://img.shields.io/badge/ReGen_Hackathon_2.0-First_Runner_Up-8892B0?style=for-the-badge&labelColor=0F2027" alt="ReGen Hackathon 2.0 — First Runner-Up" />
 
@@ -30,3 +28,11 @@ Computer Science & Engineering student at NIT Manipur, building where software m
 <a href="https://instagram.com/rojenwai"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
 <a href="https://threads.com/@rojenwai"><img src="https://img.shields.io/badge/Threads-000000?style=flat-square&logo=threads&logoColor=white" alt="Threads" /></a>
 <a href="https://www.reddit.com/user/rojenw/"><img src="https://img.shields.io/badge/Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white" alt="Reddit" /></a>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rojenwai/rojenwai/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rojenwai/rojenwai/output/github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/rojenwai/rojenwai/output/github-snake.svg" width="100%" alt="Snake eating my contribution graph" />
+</picture>
