@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=210&section=header&text=Rojen%20Wairokpam&fontSize=52&fontColor=FFFFFF&fontAlignY=34&animation=fadeIn&desc=Computer%20Science%20%26%20Engineering%20%40%20NIT%20Manipur&descSize=16&descAlignY=54" width="100%" alt="Rojen Wairokpam" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=210&section=header&text=Rojen%20Wairokpam&fontSize=52&fontColor=FFFFFF&fontAlignY=34&animation=fadeIn&desc=Computer%20Science%20%26%20Engineering%20%40%20NIT%20Manipur&descSize=16&descAlignY=54&reversal=false" width="100%" alt="Rojen Wairokpam" />
 
 <a href="https://github.com/rojenwai">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1200&color=00D9FF&center=true&vCenter=true&width=640&height=45&lines=AI+%26+Robotics+Engineer;Embedded+Systems+%26+IoT+Developer;Satellite+%2B+Sensor+Data+Fusion;I+build+things+that+think+and+move" alt="AI &amp; Robotics Engineer" />
