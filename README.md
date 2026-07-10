@@ -6,7 +6,7 @@
 
 </div>
 
-Computer Science & Engineering student at NIT Manipur, building where software meets the physical world — satellite-and-IoT fusion for disaster prediction, a ground control station for autonomous UAVs, and a quadruped robot that understands natural language.
+Computer Science & Engineering student at NIT Manipur, building where software meets the physical world - satellite-and-IoT fusion for disaster prediction, a ground control station for autonomous UAVs, and a quadruped robot that understands natural language.
 
 ## Achievements
 
