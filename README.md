@@ -38,7 +38,7 @@ Computer Science & Engineering student at NIT Manipur, building where software m
 
 </div>
 
-<br/><br/>
+<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rojenwai/rojenwai/output/github-snake-dark.svg" />
