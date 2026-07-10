@@ -4,19 +4,21 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1400&color=00D9FF&center=true&vCenter=true&width=650&height=40&lines=Good+to+have+you+here;AI+%26+Robotics+Engineer;Embedded+Systems+%26+IoT+Developer;Building+things+that+think+and+move" alt="Good to have you here — AI & Robotics Engineer" />
 
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="380" alt="" />
+
 </div>
 
 Computer Science & Engineering student at NIT Manipur, building where software meets the physical world — landslide-warning grids, quadruped robots that understand language, and autonomous aircraft that navigate on their own.
 
 ## Achievements
 
-**DSGF-LEWS** — satellite–ground fusion landslide early-warning system
+**[DSGF-LEWS](https://github.com/rojenwai/DSGF-LandslideEarlyWarningSystem-Showcase)** — satellite–ground fusion landslide early-warning system
 
 <img src="https://img.shields.io/badge/AI_Impact_Summit_India_2026-Exhibitor-00D9FF?style=for-the-badge&labelColor=0F2027" alt="AI Impact Summit India 2026 — Exhibitor" />
 <img src="https://img.shields.io/badge/TechSprint_Manipur_1.0-Runner_Up-8892B0?style=for-the-badge&labelColor=0F2027" alt="TechSprint Manipur 1.0 — Runner-Up" />
 <img src="https://img.shields.io/badge/ReGen_Hackathon_2.0-First_Runner_Up-8892B0?style=for-the-badge&labelColor=0F2027" alt="ReGen Hackathon 2.0 — First Runner-Up" />
 
-**PhungaLearn** — multilingual educational platform for local heritage
+**[PhungaLearn](https://github.com/rojenwai/PhungaLearn-Showcase)** — multilingual educational platform for local heritage
 
 <img src="https://img.shields.io/badge/UBA_EduThon_2025-Runner_Up-8892B0?style=for-the-badge&labelColor=0F2027" alt="UBA EduThon 2025 — Runner-Up" />
 
