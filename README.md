@@ -10,7 +10,7 @@ Computer Science & Engineering student at NIT Manipur, building where software m
 
 ## Achievements
 
-**[DSGF-LEWS](https://github.com/rojenwai/DSGF-LandslideEarlyWarningSystem-Showcase)** - Dynamic Satellite-Ground Fusion Grid-Based Landslide Early Warning System, fusing satellite intelligence, IoT sensors, and LoRa communication with machine learning
+**[DSGF-Landslide Early Warning System](https://github.com/rojenwai/DSGF-LandslideEarlyWarningSystem-Showcase)** - Dynamic Satellite-Ground Fusion Grid-Based Landslide Early Warning System, fusing satellite intelligence, IoT sensors, and LoRa communication with machine learning
 
 <img src="https://img.shields.io/badge/AI_Impact_Summit_India_2026-Exhibitor-F5A623?style=for-the-badge&labelColor=0F2027" alt="AI Impact Summit India 2026 — Exhibitor" />
 <img src="https://img.shields.io/badge/TechSprint_Manipur_1.0-First_Runner_Up-8892B0?style=for-the-badge&labelColor=0F2027" alt="TechSprint Manipur 1.0 - First Runner-Up" />
