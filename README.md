@@ -2,7 +2,7 @@
 
 # Hi! I am Rojen Wairokpam
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1400&color=F5A623&center=true&vCenter=true&width=650&height=40&lines=Good+to+have+you+here;Software+%7C+Hardware+%7C+Creativity;From+concept+to+prototype;Always+building" alt="Good to have you here — AI & Robotics Engineer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1400&color=F5A623&center=true&vCenter=true&width=650&height=40&lines=Welcome+to+my+GitHub!;Software+%7C+Hardware+%7C+Creativity;From+concept+to+prototype;Always+building" alt="Good to have you here — AI & Robotics Engineer" />
 
 </div>
 
