@@ -1,6 +1,6 @@
 <div align="center">
 
-# Rojen Wairokpam
+# Hi I am Rojen Wairokpam
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1400&color=F5A623&center=true&vCenter=true&width=650&height=40&lines=Good+to+have+you+here;AI+%26+Robotics+Engineer;Embedded+Systems+%26+IoT+Developer;Building+things+that+think+and+move" alt="Good to have you here — AI & Robotics Engineer" />
 
