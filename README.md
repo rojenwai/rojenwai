@@ -20,6 +20,20 @@ Computer Science & Engineering student at NIT Manipur, building where software m
 
 <img src="https://img.shields.io/badge/UBA_EduThon_2025-First_Runner_Up-8892B0?style=for-the-badge&labelColor=0F2027" alt="UBA EduThon 2025 - First Runner-Up" />
 
+## Featured Repos
+
+<div align="center">
+
+<a href="https://github.com/rojenwai/SimuLab"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=rojenwai&repo=SimuLab&hide_border=true&bg_color=0D1117&title_color=F5A623&icon_color=F5A623&text_color=C9D1D9" alt="SimuLab" /></a>
+<a href="https://github.com/rojenwai/Astralis"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=rojenwai&repo=Astralis&hide_border=true&bg_color=0D1117&title_color=F5A623&icon_color=F5A623&text_color=C9D1D9" alt="Astralis" /></a>
+
+<a href="https://github.com/rojenwai/Falcon-GCS"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=rojenwai&repo=Falcon-GCS&hide_border=true&bg_color=0D1117&title_color=F5A623&icon_color=F5A623&text_color=C9D1D9" alt="Falcon-GCS" /></a>
+<a href="https://github.com/rojenwai/Yuki-Quadruped-Robot"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=rojenwai&repo=Yuki-Quadruped-Robot&hide_border=true&bg_color=0D1117&title_color=F5A623&icon_color=F5A623&text_color=C9D1D9" alt="Yuki-Quadruped-Robot" /></a>
+
+<a href="https://github.com/rojenwai/CompanyOS"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=rojenwai&repo=CompanyOS&hide_border=true&bg_color=0D1117&title_color=F5A623&icon_color=F5A623&text_color=C9D1D9" alt="CompanyOS" /></a>
+
+</div>
+
 ## Contact
 
 <div align="center">
