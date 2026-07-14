@@ -1,8 +1,8 @@
 <div align="center">
 
-# Rojen Wairokpam
+# Hi! I am Rojen Wairokpam
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1400&color=F5A623&center=true&vCenter=true&width=650&height=40&lines=Good+to+have+you+here;AI+%26+Robotics+Engineer;Embedded+Systems+%26+IoT+Developer;Building+things+that+think+and+move" alt="Good to have you here — AI & Robotics Engineer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1400&color=F5A623&center=true&vCenter=true&width=650&height=40&lines=Welcome+to+my+GitHub!;Software+%7C+Hardware+%7C+Creativity;From+concept+to+prototype;Always+building" alt="Good to have you here — AI & Robotics Engineer" />
 
 </div>
 
@@ -10,11 +10,11 @@ Computer Science & Engineering student at NIT Manipur, building where software m
 
 ## Achievements
 
-**[DSGF-LEWS](https://github.com/rojenwai/DSGF-LandslideEarlyWarningSystem-Showcase)** - Dynamic Satellite-Ground Fusion Grid-Based Landslide Early Warning System, fusing satellite intelligence, IoT sensors, and LoRa communication with machine learning
+**[DSGF-Landslide Early Warning System](https://github.com/rojenwai/DSGF-LandslideEarlyWarningSystem-Showcase)** - Dynamic Satellite-Ground Fusion Grid-Based Landslide Early Warning System, fusing satellite intelligence, IoT sensors, and LoRa communication with machine learning
 
 <img src="https://img.shields.io/badge/AI_Impact_Summit_India_2026-Exhibitor-F5A623?style=for-the-badge&labelColor=0F2027" alt="AI Impact Summit India 2026 — Exhibitor" />
-<img src="https://img.shields.io/badge/TechSprint_Manipur_1.0-First_Runner_Up-8892B0?style=for-the-badge&labelColor=0F2027" alt="TechSprint Manipur 1.0 - First Runner-Up" />
-<img src="https://img.shields.io/badge/ReGen_Hackathon_2.0-First_Runner_Up-8892B0?style=for-the-badge&labelColor=0F2027" alt="ReGen Hackathon 2.0 - First Runner-Up" />
+<img src="https://img.shields.io/badge/TechSprint_Manipur_1.0_2026-First_Runner_Up-8892B0?style=for-the-badge&labelColor=0F2027" alt="TechSprint Manipur 1.0 - First Runner-Up" />
+<img src="https://img.shields.io/badge/ReGen_Hackathon_2.0_2026-First_Runner_Up-8892B0?style=for-the-badge&labelColor=0F2027" alt="ReGen Hackathon 2.0 - First Runner-Up" />
 
 **[PhungaLearn](https://github.com/rojenwai/PhungaLearn-Showcase)** - multilingual platform preserving regional languages and culture through storytelling, interactive learning, and NEP 2020-aligned digital education
 
