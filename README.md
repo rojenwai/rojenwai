@@ -22,17 +22,15 @@ Computer Science & Engineering student at NIT Manipur, building where software m
 
 ## Featured Repos
 
-<div align="center">
-
-<a href="https://github.com/rojenwai/SimuLab"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=rojenwai&repo=SimuLab&hide_border=true&bg_color=0D1117&title_color=F5A623&icon_color=F5A623&text_color=C9D1D9" alt="SimuLab" /></a>
-<a href="https://github.com/rojenwai/Astralis"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=rojenwai&repo=Astralis&hide_border=true&bg_color=0D1117&title_color=F5A623&icon_color=F5A623&text_color=C9D1D9" alt="Astralis" /></a>
-
-<a href="https://github.com/rojenwai/Falcon-GCS"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=rojenwai&repo=Falcon-GCS&hide_border=true&bg_color=0D1117&title_color=F5A623&icon_color=F5A623&text_color=C9D1D9" alt="Falcon-GCS" /></a>
-<a href="https://github.com/rojenwai/Yuki-Quadruped-Robot"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=rojenwai&repo=Yuki-Quadruped-Robot&hide_border=true&bg_color=0D1117&title_color=F5A623&icon_color=F5A623&text_color=C9D1D9" alt="Yuki-Quadruped-Robot" /></a>
-
-<a href="https://github.com/rojenwai/CompanyOS"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=rojenwai&repo=CompanyOS&hide_border=true&bg_color=0D1117&title_color=F5A623&icon_color=F5A623&text_color=C9D1D9" alt="CompanyOS" /></a>
-
-</div>
+<table>
+<tr>
+<td><a href="https://github.com/rojenwai/SimuLab"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=rojenwai&repo=SimuLab&hide_border=true&bg_color=0D1117&title_color=F5A623&icon_color=F5A623&text_color=C9D1D9" alt="SimuLab" /></a></td>
+<td><a href="https://github.com/rojenwai/Astralis"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=rojenwai&repo=Astralis&hide_border=true&bg_color=0D1117&title_color=F5A623&icon_color=F5A623&text_color=C9D1D9" alt="Astralis" /></a></td>
+<td><a href="https://github.com/rojenwai/Falcon-GCS"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=rojenwai&repo=Falcon-GCS&hide_border=true&bg_color=0D1117&title_color=F5A623&icon_color=F5A623&text_color=C9D1D9" alt="Falcon-GCS" /></a></td>
+<td><a href="https://github.com/rojenwai/Yuki-Quadruped-Robot"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=rojenwai&repo=Yuki-Quadruped-Robot&hide_border=true&bg_color=0D1117&title_color=F5A623&icon_color=F5A623&text_color=C9D1D9" alt="Yuki-Quadruped-Robot" /></a></td>
+<td><a href="https://github.com/rojenwai/CompanyOS"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=rojenwai&repo=CompanyOS&hide_border=true&bg_color=0D1117&title_color=F5A623&icon_color=F5A623&text_color=C9D1D9" alt="CompanyOS" /></a></td>
+</tr>
+</table>
 
 ## Contact
 
