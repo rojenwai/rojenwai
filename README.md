@@ -24,15 +24,15 @@ Computer Science & Engineering student at NIT Manipur, building where software m
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=rojenwai&repo=SimuLab&hide_border=true&bg_color=0D1117&title_color=F5A623&icon_color=F5A623&text_color=C9D1D9" alt="SimuLab" />
+<a href="https://github.com/rojenwai/SimuLab"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rojenwai&repo=SimuLab&hide_border=true&bg_color=0D1117&title_color=F5A623&icon_color=F5A623&text_color=C9D1D9" alt="SimuLab" /></a>
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=rojenwai&repo=Astralis&hide_border=true&bg_color=0D1117&title_color=F5A623&icon_color=F5A623&text_color=C9D1D9" alt="Astralis" />
+<a href="https://github.com/rojenwai/Astralis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rojenwai&repo=Astralis&hide_border=true&bg_color=0D1117&title_color=F5A623&icon_color=F5A623&text_color=C9D1D9" alt="Astralis" /></a>
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=rojenwai&repo=Falcon-GCS&hide_border=true&bg_color=0D1117&title_color=F5A623&icon_color=F5A623&text_color=C9D1D9" alt="Falcon-GCS" />
+<a href="https://github.com/rojenwai/Falcon-GCS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rojenwai&repo=Falcon-GCS&hide_border=true&bg_color=0D1117&title_color=F5A623&icon_color=F5A623&text_color=C9D1D9" alt="Falcon-GCS" /></a>
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=rojenwai&repo=Yuki-Quadruped-Robot&hide_border=true&bg_color=0D1117&title_color=F5A623&icon_color=F5A623&text_color=C9D1D9" alt="Yuki-Quadruped-Robot" />
+<a href="https://github.com/rojenwai/Yuki-Quadruped-Robot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rojenwai&repo=Yuki-Quadruped-Robot&hide_border=true&bg_color=0D1117&title_color=F5A623&icon_color=F5A623&text_color=C9D1D9" alt="Yuki-Quadruped-Robot" /></a>
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=rojenwai&repo=CompanyOS&hide_border=true&bg_color=0D1117&title_color=F5A623&icon_color=F5A623&text_color=C9D1D9" alt="CompanyOS" />
+<a href="https://github.com/rojenwai/CompanyOS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rojenwai&repo=CompanyOS&hide_border=true&bg_color=0D1117&title_color=F5A623&icon_color=F5A623&text_color=C9D1D9" alt="CompanyOS" /></a>
 
 </div>
 
